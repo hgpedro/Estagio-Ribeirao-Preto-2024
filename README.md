@@ -1,4 +1,4 @@
-﻿﻿#Estagio-Ribeirao-Preto-2024
+﻿﻿# Estagio-Ribeirao-Preto-2024
 
 Bem-vindo ao repositório de desafios de programação! Este repositório contém soluções para uma série de desafios de programação em Python. Os desafios abordam uma variedade de conceitos, desde lógica de programação até problemas matemáticos e algorítmicos.
 
